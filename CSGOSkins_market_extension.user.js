@@ -5,8 +5,8 @@
 // @description  displaying which bots have a specific item as tooltip
 // @author       Xbaal
 // @match        http://s7.csgoskins.net/clutch-boss/market/*
-// @updateURL		 https://raw.github.com/Xbaal/CSGOSkins-market-extension/CSGOSkins_market_extension.user.js
-// @downloadURL  https://raw.github.com/Xbaal/CSGOSkins-market-extension/CSGOSkins_market_extension.user.js		
+// @updateURL    https://github.com/Xbaal/CSGOSkins-market-extension/raw/master/CSGOSkins_market_extension.user.js
+// @downloadURL  https://github.com/Xbaal/CSGOSkins-market-extension/raw/master/CSGOSkins_market_extension.user.js	
 // @grant        none
 // ==/UserScript==
 
